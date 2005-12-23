@@ -5,8 +5,8 @@ Version:	2.2.2
 Release:	0.1
 License:	MIT
 Group:		X11/Development/Libraries
-Source0:	http://xorg.freedesktop.org/releases/X11R7.0-RC4/proto/xf86vidmodeproto-%{version}.tar.bz2
-# Source0-md5:	f18d93c1d35ec3a4b93290f54c92cca7
+Source0:	http://xorg.freedesktop.org/releases/X11R7.0/src/proto/xf86vidmodeproto-%{version}.tar.bz2
+# Source0-md5:	f00844a63d6e76b69eb0eb5e41eed843
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
