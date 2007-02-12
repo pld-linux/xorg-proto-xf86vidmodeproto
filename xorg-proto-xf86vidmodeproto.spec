@@ -1,5 +1,5 @@
 Summary:	XF86VidMode protocol and ancillary headers
-Summary(pl):	Nag丑wki protoko硊 XF86VidMode i pomocnicze
+Summary(pl.UTF-8):   Nag艂贸wki protoko艂u XF86VidMode i pomocnicze
 Name:		xorg-proto-xf86vidmodeproto
 Version:	2.2.2
 Release:	1
@@ -16,20 +16,20 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 XF86VidMode protocol and ancillary headers.
 
-%description -l pl
-Nag丑wki protoko硊 XF86VidMode i pomocnicze.
+%description -l pl.UTF-8
+Nag艂贸wki protoko艂u XF86VidMode i pomocnicze.
 
 %package devel
 Summary:	XF86VidMode protocol and ancillary headers
-Summary(pl):	Nag丑wki protoko硊 XF86VidMode i pomocnicze
+Summary(pl.UTF-8):   Nag艂贸wki protoko艂u XF86VidMode i pomocnicze
 Group:		X11/Development/Libraries
 Requires:	xorg-proto-xproto-devel
 
 %description devel
 XF86VidMode protocol and ancillary headers.
 
-%description devel -l pl
-Nag丑wki protoko硊 XF86VidMode i pomocnicze.
+%description devel -l pl.UTF-8
+Nag艂贸wki protoko艂u XF86VidMode i pomocnicze.
 
 %prep
 %setup -q -n xf86vidmodeproto-%{version}
