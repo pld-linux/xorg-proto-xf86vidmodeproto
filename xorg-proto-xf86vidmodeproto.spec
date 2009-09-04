@@ -1,12 +1,12 @@
 Summary:	XF86VidMode protocol and ancillary headers
 Summary(pl.UTF-8):	Nagłówki protokołu XF86VidMode i pomocnicze
 Name:		xorg-proto-xf86vidmodeproto
-Version:	2.2.2
-Release:	2
+Version:	2.2.99.1
+Release:	1
 License:	MIT
 Group:		X11/Development/Libraries
 Source0:	http://xorg.freedesktop.org/releases/individual/proto/xf86vidmodeproto-%{version}.tar.bz2
-# Source0-md5:	f00844a63d6e76b69eb0eb5e41eed843
+# Source0-md5:	128a61f6e275cb76566e4ce477631938
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
