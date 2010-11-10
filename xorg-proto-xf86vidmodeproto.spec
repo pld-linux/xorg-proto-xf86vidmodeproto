@@ -2,7 +2,7 @@ Summary:	XF86VidMode extension headers
 Summary(pl.UTF-8):	Nagłówki rozszerzenia XF86VidMode
 Name:		xorg-proto-xf86vidmodeproto
 Version:	2.3
-Release:	1
+Release:	2
 License:	MIT
 Group:		X11/Development/Libraries
 Source0:	http://xorg.freedesktop.org/releases/individual/proto/xf86vidmodeproto-%{version}.tar.bz2
