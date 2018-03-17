@@ -1,13 +1,14 @@
+# NOTE: now maintained in xorg-proto-xorgproto.spec
 Summary:	XF86VidMode extension headers
 Summary(pl.UTF-8):	Pliki nagłówkowe rozszerzenia XF86VidMode
 Name:		xorg-proto-xf86vidmodeproto
 Version:	2.3.1
-Release:	2
+Release:	2.1
 License:	MIT
 Group:		X11/Development/Libraries
-Source0:	http://xorg.freedesktop.org/releases/individual/proto/xf86vidmodeproto-%{version}.tar.bz2
+Source0:	https://xorg.freedesktop.org/releases/individual/proto/xf86vidmodeproto-%{version}.tar.bz2
 # Source0-md5:	e793ecefeaecfeabd1aed6a01095174e
-URL:		http://xorg.freedesktop.org/
+URL:		https://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.60
 BuildRequires:	automake
 BuildRequires:	xorg-util-util-macros >= 1.3
